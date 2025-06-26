@@ -54,7 +54,7 @@ We specialize in:
 
 - 🌐 Website: [braincode360.com](https://braincode360.com)
 - 📧 Email: [contact@braincode360.com](mailto:contact@braincode360.com)
-- 🧑‍💻 GitHub: [github.com/your-org](https://github.com/braincode360)
+- 🧑‍💻 GitHub: [github.com/braincode360](https://github.com/braincode360)
 
 ---
 
