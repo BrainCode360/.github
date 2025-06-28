@@ -16,6 +16,15 @@ We specialize in:
 - 🔌 **Third-Party API Integrations** (GetStream, AWS Chime, Stripe, PayPal, etc.)
 - 🎨 **Pixel-Perfect UI/UX**
 - 🧪 **Performance-Driven, Scalable Architecture**
+  
+| 🔹 Area                                       | 🔍 Expertise                                                         |
+| --------------------------------------------- | -------------------------------------------------------------------- |
+| 🌐 **Full-Stack Web Development**             | Modern apps (React, Vue, Next.js, Flask, Django, FastAPI, Node.js)   |
+| ⚙️ **Backend Engineering**                    | REST APIs, microservices, cloud-native backends (GCP, Firebase, AWS) |
+| 🧠 **AI & Computer Vision**                   | Real-time detection, segmentation, ONNX, TensorRT, embedded AI       |
+| 🔍 **LLMs & NLP**                             | Chatbots, document automation, GPT/Claude/RAG integrations           |
+| 📱 **Mobile & IoT**                           | Cross-platform apps, device dashboards, sensor networks              |
+| 🏙️ **Smart Cities & Digital Transformation** | Edge AI, traffic analytics, industrial automation, safety portals    |
 
 ---
 
@@ -50,7 +59,13 @@ We specialize in:
 
 ---
 
-## 📫 Let’s Connect
+📌 Whether you're a startup, a government agency, or an enterprise, BrainCode360 is your partner in designing intelligent, secure, and scalable systems.
+💬 Reach out to explore collaboration, white-labeling, or custom solution design.
+
+📧 Email: info@braincode360.com
+🌍 Website: https://braincode360.com
+
+## 📫 Let’s Connect & Build the Future
 
 - 🌐 Website: [braincode360.com](https://braincode360.com)
 - 📧 Email: [contact@braincode360.com](mailto:contact@braincode360.com)
