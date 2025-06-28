@@ -17,14 +17,14 @@ We specialize in:
 - 🎨 **Pixel-Perfect UI/UX**
 - 🧪 **Performance-Driven, Scalable Architecture**
   
-| 🔹 Area                                       | 🔍 Expertise                                                         |
+|  Area                                         | 🔍 Expertise                                                         |
 | --------------------------------------------- | -------------------------------------------------------------------- |
 | 🌐 **Full-Stack Web Development**             | Modern apps (React, Vue, Next.js, Flask, Django, FastAPI, Node.js)   |
 | ⚙️ **Backend Engineering**                    | REST APIs, microservices, cloud-native backends (GCP, Firebase, AWS) |
 | 🧠 **AI & Computer Vision**                   | Real-time detection, segmentation, ONNX, TensorRT, embedded AI       |
 | 🔍 **LLMs & NLP**                             | Chatbots, document automation, GPT/Claude/RAG integrations           |
 | 📱 **Mobile & IoT**                           | Cross-platform apps, device dashboards, sensor networks              |
-| 🏙️ **Smart Cities & Digital Transformation** | Edge AI, traffic analytics, industrial automation, safety portals    |
+| 🏙️ **Smart Cities & Digital Transformation**  | Edge AI, traffic analytics, industrial automation, safety portals    |
 
 ---
 
